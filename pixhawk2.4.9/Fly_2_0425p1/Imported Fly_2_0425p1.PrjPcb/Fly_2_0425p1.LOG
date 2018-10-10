@@ -1,0 +1,19 @@
+Importer Log Report
+Project : Fly_2_0425p1.PrjPcb
+
+Section : Document - D:\pixhawk2.4.9\Fly_2_0425p1\Fly_2_0425p1.brd
+
+    Section : Import Messages
+        Warning : Unable to locate symbol definition for component   of type ID-BOARD. Skipping to next component.
+        Warning : Unable to locate symbol definition for component   of type ID-BOARD. Skipping to next component.
+        Warning : Unable to locate symbol definition for component   of type ID-BOARD. Skipping to next component.
+        Warning : Unable to locate symbol definition for component   of type HOLE2_2. Skipping to next component.
+        Warning : Unable to locate symbol definition for component   of type HOLE2_2. Skipping to next component.
+        Warning : Unable to locate symbol definition for component   of type HOLE2_2. Skipping to next component.
+        Warning : Unable to locate symbol definition for component   of type HOLE2_2. Skipping to next component.
+        Warning : Unable to locate symbol definition for component   of type HOLE2_7. Skipping to next component.
+        Warning : Unable to locate symbol definition for component   of type HOLE2_7. Skipping to next component.
+        Warning : Unable to locate symbol definition for component   of type HOLE2_7. Skipping to next component.
+        Warning : Unable to locate symbol definition for component   of type HOLE2_7. Skipping to next component.
+    EndSection
+EndSection

@@ -1,0 +1,19 @@
+Added Component: Designator=*1(SOT23-8)
+Added Component: Designator=*3(SOT23-8)
+Added Pin To Net: NetName=Net*1_1 Pin=*1-1
+Added Pin To Net: NetName=Net*1_4 Pin=*1-4
+Added Pin To Net: NetName=GND Pin=*1-6
+Added Pin To Net: NetName=VBAT Pin=*1-7
+Added Pin To Net: NetName=Net*1_8 Pin=*1-8
+Added Pin To Net: NetName=Net*3_1 Pin=*3-1
+Added Pin To Net: NetName=Net*3_4 Pin=*3-4
+Added Pin To Net: NetName=GND Pin=*3-6
+Added Pin To Net: NetName=VBAT Pin=*3-7
+Added Pin To Net: NetName=Net*3_8 Pin=*3-8
+Added Pin To Net: NetName=VDD_3V3_FLOW Pin=C27-P$1
+Added Pin To Net: NetName=GND Pin=C27-P$2
+Added Member To Class: ClassName=power2 Member=Component *1 TPS5430
+Added Member To Class: ClassName=power2 Member=Component *3 TPS5430
+Added Room: Name=esc
+Added Room: Name=plug
+Added Room: Name=px4flow

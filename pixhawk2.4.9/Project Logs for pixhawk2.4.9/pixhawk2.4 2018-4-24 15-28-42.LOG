@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=VDD_3V3_FLOW Pin=C27-P$1
+Removed Member From Class: ClassName=plug Member=PSM1
+Added Component: Designator=PSM?(PSM)
+Added Pin To Net: NetName=NetC27_P$1 Pin=C27-P$1
+Added Pin To Net: NetName=VDD_3V3_FLOW Pin=C27-P$1
+Added Pin To Net: NetName=GND Pin=C27-P$2
+Added Pin To Net: NetName=VDD_3V3_USER Pin=PSM?-1
+Added Pin To Net: NetName=RX_5V0_OUT Pin=PSM?-3
+Added Pin To Net: NetName=VDD_5V_PERIPH Pin=PSM?-4
+Added Pin To Net: NetName=VDD_5V_HIPOWER Pin=PSM?-5
+Added Pin To Net: NetName=GND Pin=PSM?-6
+Added Pin To Net: NetName=V\D\D\_\5\V\_\H\I\P\O\W\E\R\_\O\C\ Pin=PSM?-7
+Added Pin To Net: NetName=V\D\D\_\5\V\_\P\E\R\I\P\H\_\O\C\ Pin=PSM?-8
+Added Pin To Net: NetName=VDD_3V3_USER_EN Pin=PSM?-9
+Added Pin To Net: NetName=V\D\D\_\5\V\_\P\E\R\I\P\H\_\E\N\ Pin=PSM?-10
+Added Pin To Net: NetName=VBUS Pin=PSM?-11
+Added Pin To Net: NetName=ALARM Pin=PSM?-12
+Added Pin To Net: NetName=BUZZER_OUT Pin=PSM?-13
+Added Pin To Net: NetName=GND Pin=PSM?-14
+Added Pin To Net: NetName=VDD_5V_IN_PROT Pin=PSM?-15
+Added Pin To Net: NetName=V\D\D\_\B\R\I\C\K\_\V\A\L\I\D\ Pin=PSM?-16
+Added Pin To Net: NetName=V\D\D\_\B\A\C\K\U\P\_\V\A\L\I\D\ Pin=PSM?-17
+Added Pin To Net: NetName=V\B\U\S\_\V\A\L\I\D\ Pin=PSM?-18
+Added Pin To Net: NetName=VDD_SERVO_IN Pin=PSM?-19
+Added Pin To Net: NetName=VBUS Pin=PSM?-20
+Added Pin To Net: NetName=VBUS Pin=PSM?-21
+Added Pin To Net: NetName=VDD_5V_BACKUP Pin=PSM?-22
+Added Pin To Net: NetName=VDD_5V_BACKUP Pin=PSM?-23
+Added Pin To Net: NetName=VDD_5V_BRICK Pin=PSM?-24
+Added Pin To Net: NetName=VDD_5V_BRICK Pin=PSM?-25
+Added Member To Class: ClassName=plug Member=Component PSM? Power Selection module

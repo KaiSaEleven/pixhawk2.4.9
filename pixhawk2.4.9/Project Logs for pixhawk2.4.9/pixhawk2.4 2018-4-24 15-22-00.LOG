@@ -1,0 +1,66 @@
+Removed Pin From Net: NetName=VDD_3V3_FLOW Pin=C27-P$1
+Removed Pin From Net: NetName=VDD_SERVO Pin=D300-ANODE
+Removed Pin From Net: NetName=NetD5_C Pin=D300-CATHODE
+Removed Pin From Net: NetName=VDD_5V_HIPOWER Pin=PSM1-5V_HIPOWER
+Removed Pin From Net: NetName=VDD_5V_PERIPH Pin=PSM1-5V_PERIPH
+Removed Pin From Net: NetName=BUZZER_OUT Pin=PSM1-BUZZER_OUT
+Removed Pin From Net: NetName=GND Pin=PSM1-GND
+Removed Pin From Net: NetName=GND Pin=PSM1-GND
+Removed Pin From Net: NetName=RX_5V0_OUT Pin=PSM1-RX
+Removed Pin From Net: NetName=VDD_SERVO_IN Pin=PSM1-SERVO_IN
+Removed Pin From Net: NetName=VDD_3V3_USER Pin=PSM1-SPEK
+Removed Pin From Net: NetName=VBUS Pin=PSM1-VBUS
+Removed Pin From Net: NetName=VDD_3V3_USER_EN Pin=PSM1-VDD_3V3_SPEKTRUM_EN
+Removed Pin From Net: NetName=VDD_5V_BACKUP Pin=PSM1-VDD_5V_BACKUP
+Removed Pin From Net: NetName=VDD_5V_BACKUP Pin=PSM1-VDD_5V_BACKUP
+Removed Pin From Net: NetName=VDD_5V_IN_PROT Pin=PSM1-VDD_5V_IN_PROT
+Removed Pin From Net: NetName=VDD_5V_BRICK Pin=PSM1-VDD_BRICK_IN
+Removed Pin From Net: NetName=VDD_5V_BRICK Pin=PSM1-VDD_BRICK_IN
+Removed Pin From Net: NetName=VBUS Pin=PSM1-VDD_VBUS
+Removed Pin From Net: NetName=VBUS Pin=PSM1-VDD_VBUS
+Change Component DesignItemId : Designator=D300 Old DesignItemId=DIODE-SCHOTTKY_MSMP New DesignItemId=DIODE-TVS
+Change Component DesignItemId : Designator=R27 Old DesignItemId=RESISTOR0402-RES New DesignItemId=RESISTOR
+Change Component Description : Designator=C17 Old Description=CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor. New Description=CAP CER 0.1UF 25V 10% X7R 0402
+Change Component Description : Designator=C18 Old Description=CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor. New Description=CAP CER 0.1UF 25V 10% X7R 0402
+Change Component Description : Designator=C19 Old Description=CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor. New Description=CAP CER 0.1UF 25V 10% X7R 0402
+Change Component Description : Designator=C20 Old Description=CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor. New Description=CAP CER 0.1UF 25V 10% X7R 0402
+Change Component Description : Designator=C21 Old Description=CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor. New Description=CAP CER 0.1UF 25V 10% X7R 0402
+Change Component Description : Designator=C22 Old Description=CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor. New Description=CAP CER 0.1UF 25V 10% X7R 0402
+Change Component Description : Designator=C23 Old Description=CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor. New Description=CAP CER 0.1UF 25V 10% X7R 0402
+Change Component Description : Designator=C26 Old Description=CAP CER 0.01UF 25V 10% X7R 0402 New Description=CAP CER 0.1UF 25V 10% X7R 0402
+Change Component Description : Designator=C30 Old Description=CAP CER 0.01UF 25V 10% X7R 0402 New Description=CAP CER 2.2UF 25V 10% X7R 0402
+Change Component Description : Designator=C28 Old Description=CAP CER 0.01UF 25V 10% X7R 0402 New Description=CAP CER 8pF 25V 10% X7R 0402
+Change Component Description : Designator=C29 Old Description=CAP CER 0.01UF 25V 10% X7R 0402 New Description=CAP CER 8pf 25V 10% X7R 0402
+Change Component Description : Designator=C6 Old Description=CAP CER 10UF 10V 20% X5R 1206 New Description=CAP CER 10UF 50V 20% X5R 1206
+Change Component Description : Designator=C15 Old Description=CAP CER 10UF 10V 20% X5R 1206 New Description=CAP CER 10UF 50V 20% X5R 1206
+Change Component Description : Designator=D300 Old Description=Diode, Schottky, 40V, 1A, MicroSMP, SMD New Description=Diode, TVS, 14VWM, 40VC, 0402, SMD
+Change Component Description : Designator=R27 Old Description=ResistorBasic schematic elements and footprints for 0603, 1206, and PTH 1/10th watt (small) resistors. New Description=
+Change Component Library : Designator=R27 Old Library=pixhawk2.IntLib New Library=*
+Added Component: Designator=P1(CON-DF17-80M)
+Added Component: Designator=R15(R0402)
+Added Component: Designator=R16(R0402)
+Added Pin To Net: NetName=NetC27_P$1 Pin=C27-P$1
+Added Pin To Net: NetName=VDD_3V3_FLOW Pin=C27-P$1
+Added Pin To Net: NetName=GND Pin=C27-P$2
+Added Pin To Net: NetName=GND Pin=P1-13
+Added Pin To Net: NetName=GND Pin=P1-15
+Added Pin To Net: NetName=GND Pin=P1-GND
+Added Pin To Net: NetName=GND Pin=P1-GND
+Added Pin To Net: NetName=GND Pin=P1-hole-1
+Added Pin To Net: NetName=GND Pin=P1-hole-2
+Added Pin To Net: NetName=AVDD_3V3_FLOW Pin=R15-1
+Added Pin To Net: NetName=PB10_I2C2_SCL Pin=R15-2
+Added Pin To Net: NetName=AVDD_3V3_FLOW Pin=R16-1
+Added Pin To Net: NetName=PB11_I2C2_SDA Pin=R16-2
+Added Pin To Net: NetName=NetD9_1 Pin=R27-1
+Added Pin To Net: NetName=VDD_3V3_FLOW Pin=R27-2
+Change Net Name : Old Net Name=NetC29_P$2 New Net Name=OSC_IN
+Change Net Name : Old Net Name=NetD3_C New Net Name=Netcan_1
+Added Member To Class: ClassName=PAD Member=Component P1 CON-DF17-80M
+Added Member To Class: ClassName=px4flow Member=Component R15 330R
+Added Member To Class: ClassName=px4flow Member=Component R16 330R
+Added Room: Name=esc
+Added Room: Name=PAD
+Added Room: Name=plug
+Added Room: Name=power2
+Added Room: Name=px4flow

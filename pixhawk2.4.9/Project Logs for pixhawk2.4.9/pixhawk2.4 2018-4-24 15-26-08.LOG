@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=VDD_3V3_FLOW Pin=C27-P$1
+Change Component Footprint: Designator=D300 Old Footprint=MICROSMP New Footprint=0402-TVS
+Change Component Comment : Designator=R1 Old Comment=0 New Comment=0R
+Change Component Comment : Designator=R2 Old Comment=0 New Comment=0R
+Change Component Comment : Designator=D300 Old Comment=MSS1P4-M3 New Comment=DIODE-TVS
+Change Component Designator: OldDesignator=ADC NewDesignator=P4
+Change Component Designator: OldDesignator=BUZZER NewDesignator=P11
+Change Component Designator: OldDesignator=can NewDesignator=P7
+Change Component Designator: OldDesignator=control NewDesignator=P8
+Change Component Designator: OldDesignator=JLINK NewDesignator=P2
+Change Component Designator: OldDesignator=OTG NewDesignator=P12
+Change Component Designator: OldDesignator=safety NewDesignator=P5
+Change Component Designator: OldDesignator=telem1 NewDesignator=P3
+Change Component Designator: OldDesignator=telem2 NewDesignator=P6
+Change Component Designator: OldDesignator=usart4 NewDesignator=P10
+Change Component Designator: OldDesignator=userpower NewDesignator=P9
+Added Pin To Net: NetName=NetC27_P$1 Pin=C27-P$1
+Added Pin To Net: NetName=VDD_3V3_FLOW Pin=C27-P$1
+Added Pin To Net: NetName=GND Pin=C27-P$2
+Added Pin To Net: NetName=VDD_SERVO Pin=D300-A
+Added Pin To Net: NetName=NetD5_C Pin=D300-C
+Change Net Name : Old Net Name=Netcan_1 New Net Name=NetD3_C
+Added Room: Name=esc
+Added Room: Name=PAD
+Added Room: Name=plug
+Added Room: Name=power2

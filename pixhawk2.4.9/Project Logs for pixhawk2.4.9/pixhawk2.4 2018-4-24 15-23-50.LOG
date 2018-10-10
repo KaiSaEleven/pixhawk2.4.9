@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=VDD_3V3_FLOW Pin=C27-P$1
+Added Pin To Net: NetName=NetC27_P$1 Pin=C27-P$1
+Added Pin To Net: NetName=VDD_3V3_FLOW Pin=C27-P$1
+Added Pin To Net: NetName=GND Pin=C27-P$2
+Added Pin To Net: NetName=FMU-SWDIO Pin=P1-1
+Added Pin To Net: NetName=FMU-SWCLK Pin=P1-3
+Added Pin To Net: NetName=I2C_2_SDA Pin=P1-4
+Added Pin To Net: NetName=I2C_2_SCL Pin=P1-6
+Added Pin To Net: NetName=VDD_SERVO_IN Pin=P1-9
+Added Pin To Net: NetName=SAFETY Pin=P1-17
+Added Pin To Net: NetName=SERIAL3_RX Pin=P1-20
+Added Pin To Net: NetName=PRESSURE_SENS_IN Pin=P1-21
+Added Pin To Net: NetName=SERIAL3_TX Pin=P1-22
+Added Pin To Net: NetName=AUX_BATT_VOLTAGE_SENS Pin=P1-23
+Added Pin To Net: NetName=AUX_BATT_CURRENT_SENS Pin=P1-25
+Added Pin To Net: NetName=I\O\-\L\E\D\_\S\A\F\E\T\_\P\R\O\T\ Pin=P1-28
+Added Pin To Net: NetName=VBUS Pin=P1-29
+Added Pin To Net: NetName=OTG_DP1 Pin=P1-31
+Added Pin To Net: NetName=OTG_DM1 Pin=P1-33
+Added Pin To Net: NetName=SERIAL2_RX Pin=P1-34
+Added Pin To Net: NetName=SERIAL2_TX Pin=P1-36
+Added Pin To Net: NetName=SERIAL1_RX Pin=P1-38
+Added Pin To Net: NetName=CAN_L_2 Pin=P1-39
+Added Pin To Net: NetName=SERIAL1_TX Pin=P1-40
+Added Pin To Net: NetName=CAN_H_2 Pin=P1-41
+Added Pin To Net: NetName=BATT_VOLTAGE_SENS_PROT Pin=P1-47
+Added Pin To Net: NetName=BATT_CURRENT_SENS_PROT Pin=P1-49
+Added Pin To Net: NetName=SPI_EXT_MOSI Pin=P1-51
+Added Pin To Net: NetName=VDD_SERVO Pin=P1-53
+Added Pin To Net: NetName=VDD_5V_IN_PROT Pin=P1-61
+Added Pin To Net: NetName=PPM-SBUS-PROT Pin=P1-62
+Added Pin To Net: NetName=VDD_5V_IN_PROT Pin=P1-63
+Added Pin To Net: NetName=SPI_EXT_MISO Pin=P1-67
+Added Pin To Net: NetName=IO-SWDIO Pin=P1-69
+Added Pin To Net: NetName=IO-SWCLK Pin=P1-71
+Added Pin To Net: NetName=SPI_EXT_SCK Pin=P1-73
+Added Pin To Net: NetName=ALARM Pin=P1-24
+Added Net: Name=ALARM
+Added Pin To Net: NetName=IO-CH1-PROT Pin=P1-80
+Added Net: Name=IO-CH1-PROT
+Added Pin To Net: NetName=IO-CH2-PROT Pin=P1-78
+Added Net: Name=IO-CH2-PROT
+Added Pin To Net: NetName=IO-CH3-PROT Pin=P1-76
+Added Net: Name=IO-CH3-PROT
+Added Pin To Net: NetName=IO-CH4-PROT Pin=P1-74
+Added Net: Name=IO-CH4-PROT
+Added Pin To Net: NetName=V\B\U\S\_\V\A\L\I\D\ Pin=P1-59
+Added Net: Name=V\B\U\S\_\V\A\L\I\D\
+Added Pin To Net: NetName=V\D\D\_\5\V\_\H\I\P\O\W\E\R\_\O\C\ Pin=P1-45
+Added Net: Name=V\D\D\_\5\V\_\H\I\P\O\W\E\R\_\O\C\
+Added Pin To Net: NetName=V\D\D\_\5\V\_\P\E\R\I\P\H\_\E\N\ Pin=P1-27
+Added Net: Name=V\D\D\_\5\V\_\P\E\R\I\P\H\_\E\N\
+Added Pin To Net: NetName=V\D\D\_\5\V\_\P\E\R\I\P\H\_\O\C\ Pin=P1-43
+Added Net: Name=V\D\D\_\5\V\_\P\E\R\I\P\H\_\O\C\
+Added Pin To Net: NetName=V\D\D\_\B\A\C\K\U\P\_\V\A\L\I\D\ Pin=P1-57
+Added Net: Name=V\D\D\_\B\A\C\K\U\P\_\V\A\L\I\D\
+Added Pin To Net: NetName=V\D\D\_\B\R\I\C\K\_\V\A\L\I\D\ Pin=P1-55
+Added Net: Name=V\D\D\_\B\R\I\C\K\_\V\A\L\I\D\
+Added Room: Name=esc
+Added Room: Name=plug
+Added Room: Name=power2

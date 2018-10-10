@@ -1,0 +1,6 @@
+Added Component: Designator=C27(0402-CAP)
+Added Component: Designator=C27(0402-CAP)
+Added Pin To Net: NetName=VDD_3V3_FLOW Pin=C27-P$1
+Added Pin To Net: NetName=VDD_3V3_FLOW Pin=C27-P$1
+Added Pin To Net: NetName=GND Pin=C27-P$2
+Added Pin To Net: NetName=GND Pin=C27-P$2

@@ -1,0 +1,220 @@
+Removed Pin From Net: NetName=VDD_3V3_FLOW Pin=C27-P$1
+Removed Pin From Net: NetName=CAN_H_2 Pin=can-2
+Removed Pin From Net: NetName=CAN_L_2 Pin=can-3
+Removed Pin From Net: NetName=GND Pin=can-4
+Removed Pin From Net: NetName=GND Pin=can-GND
+Removed Pin From Net: NetName=GND Pin=can-GND
+Removed Pin From Net: NetName=GND Pin=S7-A1
+Removed Pin From Net: NetName=NetC30_P$1 Pin=S7-B3
+Removed Pin From Net: NetName=VDD_5V_PERIPH Pin=safety-1
+Removed Pin From Net: NetName=SAFETY Pin=safety-2
+Removed Pin From Net: NetName=I\O\-\L\E\D\_\S\A\F\E\T\_\P\R\O\T\ Pin=safety-3
+Removed Pin From Net: NetName=GND Pin=safety-4
+Removed Pin From Net: NetName=GND Pin=safety-GND
+Removed Pin From Net: NetName=GND Pin=safety-GND
+Removed Pin From Net: NetName=NetD1_C Pin=telem1-1
+Removed Pin From Net: NetName=SERIAL1_TX Pin=telem1-2
+Removed Pin From Net: NetName=SERIAL1_RX Pin=telem1-3
+Removed Pin From Net: NetName=GND Pin=telem1-4
+Removed Pin From Net: NetName=GND Pin=telem1-GND
+Removed Pin From Net: NetName=GND Pin=telem1-GND
+Removed Pin From Net: NetName=PERIPH_5V Pin=telem2-1
+Removed Pin From Net: NetName=SERIAL2_TX Pin=telem2-2
+Removed Pin From Net: NetName=SERIAL2_RX Pin=telem2-3
+Removed Pin From Net: NetName=GND Pin=telem2-4
+Removed Pin From Net: NetName=GND Pin=telem2-GND
+Removed Pin From Net: NetName=GND Pin=telem2-GND
+Removed Pin From Net: NetName=NetD4_C Pin=usart4-1
+Removed Pin From Net: NetName=SERIAL3_TX Pin=usart4-2
+Removed Pin From Net: NetName=SERIAL3_RX Pin=usart4-3
+Removed Pin From Net: NetName=GND Pin=usart4-4
+Removed Pin From Net: NetName=GND Pin=usart4-GND
+Removed Pin From Net: NetName=GND Pin=usart4-GND
+Removed Member From Class: ClassName=plug Member=can
+Removed Member From Class: ClassName=plug Member=PSM1
+Removed Member From Class: ClassName=plug Member=safety
+Removed Member From Class: ClassName=plug Member=telem1
+Removed Member From Class: ClassName=plug Member=telem2
+Removed Member From Class: ClassName=px4flow Member=U$1
+Removed Member From Class: ClassName=px4flow Member=U$2
+Removed Member From Class: ClassName=plug Member=usart4
+Change Component Footprint: Designator=D300 Old Footprint=MICROSMP New Footprint=0402-TVS
+Change Component Comment : Designator=R1 Old Comment=0 New Comment=0R
+Change Component Comment : Designator=R2 Old Comment=0 New Comment=0R
+Change Component Comment : Designator=C40 Old Comment=0.01u New Comment=0.01u 25v
+Change Component Comment : Designator=C41 Old Comment=0.01u New Comment=0.01u 25v
+Change Component Comment : Designator=C42 Old Comment=0.01u New Comment=0.01u 25v
+Change Component Comment : Designator=C43 Old Comment=0.01u New Comment=0.01u 25v
+Change Component Comment : Designator=C44 Old Comment=0.01u New Comment=0.01u 25v
+Change Component Comment : Designator=C45 Old Comment=0.01u New Comment=0.01u 25v
+Change Component Comment : Designator=C46 Old Comment=0.01u New Comment=0.01u 25v
+Change Component Comment : Designator=C47 Old Comment=0.01u New Comment=0.01u 25v
+Change Component Comment : Designator=C48 Old Comment=0.01u New Comment=0.01u 25v
+Change Component Comment : Designator=C49 Old Comment=0.01u New Comment=0.01u 25v
+Change Component Comment : Designator=C26 Old Comment=0.1 25v New Comment=0.1u 25v
+Change Component Comment : Designator=C27 Old Comment=0.01 25v New Comment=0.01u 25v
+Change Component Comment : Designator=C27 Old Comment=0.01 25v New Comment=0.01u 25v
+Change Component Comment : Designator=C17 Old Comment=0u1 New Comment=0.1u 25v
+Change Component Comment : Designator=C18 Old Comment=0u1 New Comment=0.1u 25v
+Change Component Comment : Designator=C19 Old Comment=0u1 New Comment=0.1u 25v
+Change Component Comment : Designator=C20 Old Comment=0u1 New Comment=0.1u 25v
+Change Component Comment : Designator=C21 Old Comment=0u1 New Comment=0.1u 25v
+Change Component Comment : Designator=C22 Old Comment=0u1 New Comment=0.1u 25v
+Change Component Comment : Designator=C23 Old Comment=0u1 New Comment=0.1u 25v
+Change Component Comment : Designator=C33 Old Comment=0u1 25v New Comment=0.1u 25v
+Change Component Comment : Designator=C34 Old Comment=0u01 25v New Comment=0.01u 25v
+Change Component Comment : Designator=C35 Old Comment=0u1 25v New Comment=0.1u 25v
+Change Component Comment : Designator=C36 Old Comment=0u1 25v New Comment=0.1u 25v
+Change Component Comment : Designator=C38 Old Comment=0u1 25v New Comment=0.1u 25v
+Change Component Comment : Designator=C50 Old Comment=0u1 25v New Comment=0.1u 25v
+Change Component Comment : Designator=C31 Old Comment=2.2u New Comment=2.2u 25v
+Change Component Comment : Designator=C32 Old Comment=2.2u New Comment=2.2u 25v
+Change Component Comment : Designator=C30 Old Comment=2.2uf New Comment=2.2u 25v
+Change Component Comment : Designator=C37 Old Comment=2.2uf New Comment=2.2u 25v
+Change Component Comment : Designator=C39 Old Comment=2.2uf New Comment=2.2u 25v
+Change Component Comment : Designator=C28 Old Comment=8p New Comment=8p 25v
+Change Component Comment : Designator=C29 Old Comment=8p New Comment=8p 25v
+Change Component Comment : Designator=R26 Old Comment=22 New Comment=22R
+Change Component Comment : Designator=R27 Old Comment=22 New Comment=270R
+Change Component Comment : Designator=R29 Old Comment=100 New Comment=100R
+Change Component Comment : Designator=R31 Old Comment=100 New Comment=100R
+Change Component Comment : Designator=R32 Old Comment=100 New Comment=100R
+Change Component Comment : Designator=R33 Old Comment=330 New Comment=330R
+Change Component Comment : Designator=R34 Old Comment=330 New Comment=330R
+Change Component Comment : Designator=R35 Old Comment=330 New Comment=330R
+Change Component Comment : Designator=X1 Old Comment=Crystal Oscillator in 3.2x2.5 SMD New Comment=OSCILLATOR-3.2X2.5
+Change Component Comment : Designator=D300 Old Comment=MSS1P4-M3 New Comment=DIODE-TVS
+Change Component Designator: OldDesignator=ADC NewDesignator=P4
+Change Component Designator: OldDesignator=BUZZER NewDesignator=P11
+Change Component Designator: OldDesignator=C27 NewDesignator=C24
+Change Component Designator: OldDesignator=C27 NewDesignator=C25
+Change Component Designator: OldDesignator=control NewDesignator=P8
+Change Component Designator: OldDesignator=JLINK NewDesignator=P2
+Change Component Designator: OldDesignator=OTG NewDesignator=P12
+Change Component Designator: OldDesignator=R29 NewDesignator=R28
+Change Component Designator: OldDesignator=R30 NewDesignator=R29
+Change Component Designator: OldDesignator=R31 NewDesignator=R30
+Change Component Designator: OldDesignator=R32 NewDesignator=R31
+Change Component Designator: OldDesignator=R33 NewDesignator=R32
+Change Component Designator: OldDesignator=R34 NewDesignator=R33
+Change Component Designator: OldDesignator=R35 NewDesignator=R34
+Change Component Designator: OldDesignator=U1 NewDesignator=U3
+Change Component Designator: OldDesignator=U2 NewDesignator=U4
+Change Component Designator: OldDesignator=U$1 NewDesignator=U1
+Change Component Designator: OldDesignator=U$2 NewDesignator=U2
+Change Component Designator: OldDesignator=userpower NewDesignator=P9
+Added Component: Designator=P3(CLICKMATE_V4)
+Added Component: Designator=P5(CLICKMATE_V4)
+Added Component: Designator=P6(CLICKMATE_V4)
+Added Component: Designator=P7(CLICKMATE_V4)
+Added Component: Designator=P10(CLICKMATE_V4)
+Added Component: Designator=PSM?(PSM)
+Added Pin To Net: NetName=VDD_3V3_FLOW Pin=C25-P$1
+Added Pin To Net: NetName=GND Pin=C25-P$2
+Added Pin To Net: NetName=NetC27_P$1 Pin=C27-P$1
+Added Pin To Net: NetName=VDD_SERVO Pin=D300-A
+Added Pin To Net: NetName=NetD5_C Pin=D300-C
+Added Pin To Net: NetName=NetD1_C Pin=P3-1
+Added Pin To Net: NetName=SERIAL1_TX Pin=P3-2
+Added Pin To Net: NetName=SERIAL1_RX Pin=P3-3
+Added Pin To Net: NetName=GND Pin=P3-4
+Added Pin To Net: NetName=GND Pin=P3-5
+Added Pin To Net: NetName=GND Pin=P3-6
+Added Pin To Net: NetName=VDD_5V_PERIPH Pin=P5-1
+Added Pin To Net: NetName=SAFETY Pin=P5-2
+Added Pin To Net: NetName=I\O\-\L\E\D\_\S\A\F\E\T\_\P\R\O\T\ Pin=P5-3
+Added Pin To Net: NetName=GND Pin=P5-4
+Added Pin To Net: NetName=GND Pin=P5-5
+Added Pin To Net: NetName=GND Pin=P5-6
+Added Pin To Net: NetName=PERIPH_5V Pin=P6-1
+Added Pin To Net: NetName=SERIAL2_TX Pin=P6-2
+Added Pin To Net: NetName=SERIAL2_RX Pin=P6-3
+Added Pin To Net: NetName=GND Pin=P6-4
+Added Pin To Net: NetName=GND Pin=P6-5
+Added Pin To Net: NetName=GND Pin=P6-6
+Added Pin To Net: NetName=CAN_H_2 Pin=P7-2
+Added Pin To Net: NetName=CAN_L_2 Pin=P7-3
+Added Pin To Net: NetName=GND Pin=P7-4
+Added Pin To Net: NetName=GND Pin=P7-5
+Added Pin To Net: NetName=GND Pin=P7-6
+Added Pin To Net: NetName=NetD4_C Pin=P10-1
+Added Pin To Net: NetName=SERIAL3_TX Pin=P10-2
+Added Pin To Net: NetName=SERIAL3_RX Pin=P10-3
+Added Pin To Net: NetName=GND Pin=P10-4
+Added Pin To Net: NetName=GND Pin=P10-5
+Added Pin To Net: NetName=GND Pin=P10-6
+Added Pin To Net: NetName=VDD_3V3_USER Pin=PSM?-1
+Added Pin To Net: NetName=RX_5V0_OUT Pin=PSM?-3
+Added Pin To Net: NetName=VDD_5V_PERIPH Pin=PSM?-4
+Added Pin To Net: NetName=VDD_5V_HIPOWER Pin=PSM?-5
+Added Pin To Net: NetName=GND Pin=PSM?-6
+Added Pin To Net: NetName=V\D\D\_\5\V\_\H\I\P\O\W\E\R\_\O\C\ Pin=PSM?-7
+Added Pin To Net: NetName=V\D\D\_\5\V\_\P\E\R\I\P\H\_\O\C\ Pin=PSM?-8
+Added Pin To Net: NetName=VDD_3V3_USER_EN Pin=PSM?-9
+Added Pin To Net: NetName=V\D\D\_\5\V\_\P\E\R\I\P\H\_\E\N\ Pin=PSM?-10
+Added Pin To Net: NetName=VBUS Pin=PSM?-11
+Added Pin To Net: NetName=ALARM Pin=PSM?-12
+Added Pin To Net: NetName=BUZZER_OUT Pin=PSM?-13
+Added Pin To Net: NetName=GND Pin=PSM?-14
+Added Pin To Net: NetName=VDD_5V_IN_PROT Pin=PSM?-15
+Added Pin To Net: NetName=V\D\D\_\B\R\I\C\K\_\V\A\L\I\D\ Pin=PSM?-16
+Added Pin To Net: NetName=V\D\D\_\B\A\C\K\U\P\_\V\A\L\I\D\ Pin=PSM?-17
+Added Pin To Net: NetName=V\B\U\S\_\V\A\L\I\D\ Pin=PSM?-18
+Added Pin To Net: NetName=VDD_SERVO_IN Pin=PSM?-19
+Added Pin To Net: NetName=VBUS Pin=PSM?-20
+Added Pin To Net: NetName=VBUS Pin=PSM?-21
+Added Pin To Net: NetName=VDD_5V_BACKUP Pin=PSM?-22
+Added Pin To Net: NetName=VDD_5V_BACKUP Pin=PSM?-23
+Added Pin To Net: NetName=VDD_5V_BRICK Pin=PSM?-24
+Added Pin To Net: NetName=VDD_5V_BRICK Pin=PSM?-25
+Change Net Name : Old Net Name=NetR29_1 New Net Name=NetR28_1
+Change Net Name : Old Net Name=NetR30_1 New Net Name=NetR29_1
+Change Net Name : Old Net Name=NetR31_2 New Net Name=NetR30_2
+Change Net Name : Old Net Name=NetR32_2 New Net Name=NetR31_2
+Change Net Name : Old Net Name=NetR33_2 New Net Name=NetR32_2
+Change Net Name : Old Net Name=NetR34_2 New Net Name=NetR33_2
+Change Net Name : Old Net Name=NetR35_2 New Net Name=NetR34_2
+Change Net Name : Old Net Name=NetU1_3 New Net Name=NetU3_3
+Change Net Name : Old Net Name=NetU1_4 New Net Name=NetU3_4
+Change Net Name : Old Net Name=NetU1_5 New Net Name=NetU3_5
+Change Net Name : Old Net Name=NetU1_15 New Net Name=NetU3_15
+Change Net Name : Old Net Name=NetU1_23 New Net Name=NetU3_23
+Change Net Name : Old Net Name=NetU1_25 New Net Name=NetU3_25
+Change Net Name : Old Net Name=NetU1_26 New Net Name=NetU3_26
+Change Net Name : Old Net Name=NetU1_29 New Net Name=NetU3_29
+Change Net Name : Old Net Name=NetU1_30 New Net Name=NetU3_30
+Change Net Name : Old Net Name=NetU1_31 New Net Name=NetU3_31
+Change Net Name : Old Net Name=NetU1_39 New Net Name=NetU3_39
+Change Net Name : Old Net Name=NetU1_51 New Net Name=NetU3_51
+Change Net Name : Old Net Name=NetU1_52 New Net Name=NetU3_52
+Change Net Name : Old Net Name=NetU1_53 New Net Name=NetU3_53
+Change Net Name : Old Net Name=NetU1_54 New Net Name=NetU3_54
+Change Net Name : Old Net Name=NetU1_60 New Net Name=NetU3_60
+Change Net Name : Old Net Name=NetU1_63 New Net Name=NetU3_63
+Change Net Name : Old Net Name=NetU1_64 New Net Name=NetU3_64
+Change Net Name : Old Net Name=NetU1_65 New Net Name=NetU3_65
+Change Net Name : Old Net Name=NetU1_66 New Net Name=NetU3_66
+Change Net Name : Old Net Name=NetU1_79 New Net Name=NetU3_79
+Change Net Name : Old Net Name=NetU1_92 New Net Name=NetU3_92
+Change Net Name : Old Net Name=NetU1_93 New Net Name=NetU3_93
+Change Net Name : Old Net Name=NetU1_97 New Net Name=NetU3_97
+Change Net Name : Old Net Name=NetU1_98 New Net Name=NetU3_98
+Added Pin To Net: NetName=NetD3_C Pin=D3-C
+Added Pin To Net: NetName=NetD3_C Pin=L3-P$2
+Added Pin To Net: NetName=NetD3_C Pin=P7-1
+Added Net: Name=NetD3_C
+Added Pin To Net: NetName=NetU3_47 Pin=U3-47
+Added Net: Name=NetU3_47
+Added Pin To Net: NetName=NetU3_48 Pin=U3-48
+Added Net: Name=NetU3_48
+Added Net: Name=PWDN
+Added Member To Class: ClassName=px4flow Member=Component C25 2.2u 25v
+Added Member To Class: ClassName=px4flow Member=Component C27 0.01u 25v
+Added Member To Class: ClassName=plug Member=Component P3 CLICKMATE_1.25_4
+Added Member To Class: ClassName=plug Member=Component P5 CLICKMATE_1.25_4
+Added Member To Class: ClassName=plug Member=Component P6 CLICKMATE_1.25_4
+Added Member To Class: ClassName=plug Member=Component P7 CLICKMATE_1.25_4
+Added Member To Class: ClassName=plug Member=Component P10 CLICKMATE_1.25_4
+Added Member To Class: ClassName=plug Member=Component PSM? Power Selection module
+Added Member To Class: ClassName=px4flow Member=Component U3 STM32F407VGT6
+Added Member To Class: ClassName=px4flow Member=Component U4 L3GD20

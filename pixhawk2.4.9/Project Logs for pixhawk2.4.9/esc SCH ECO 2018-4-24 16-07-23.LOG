@@ -1,0 +1,4 @@
+Remove Pin=R22-1 From Net=I2C_2_SCL
+Remove Pin=R22-2 From Net=PB8_I2C1_SCL
+Remove Pin=R23-1 From Net=I2C_2_SDA
+Remove Pin=R23-2 From Net=PB9_I2C1_SDA

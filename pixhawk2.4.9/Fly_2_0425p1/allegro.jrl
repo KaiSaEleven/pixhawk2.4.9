@@ -1,0 +1,54 @@
+\t (00:00:20) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:20)     Journal start - Wed Apr 25 16:55:38 2018
+\t (00:00:20)         Host=DESKTOP-VNNJG6N User=qsy Pid=24980 CPUs=4
+\t (00:00:20) 
+\d (00:00:20) Database opened: D:/pixhawk2.4.9/Fly_2_0425p1/Fly_2_0425p1.brd
+\i (00:00:20) generaledit 
+\i (00:00:48) zoom in 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom in 4752.313 236.282
+\t (00:00:48) Grids are drawn 20.000, 20.000 apart for enhanced viewability.
+\i (00:00:48) trapsize 18058
+\i (00:00:48) zoom in 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom in 4752.313 236.282
+\i (00:00:48) trapsize 9029
+\i (00:00:49) zoom in 1 
+\i (00:00:49) setwindow pcb
+\i (00:00:49) zoom in 4541.033 212.807
+\i (00:00:49) trapsize 4515
+\i (00:00:49) zoom in 1 
+\i (00:00:49) setwindow pcb
+\i (00:00:49) zoom in 4541.033 212.807
+\i (00:00:49) trapsize 2257
+\i (00:00:51) zoom in 1 
+\i (00:00:51) setwindow pcb
+\i (00:00:51) zoom in 4589.790 204.681
+\i (00:00:51) trapsize 1129
+\i (00:00:55) zoom out 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom out 4560.219 229.286
+\i (00:00:55) trapsize 2257
+\i (00:00:55) zoom out 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom out 4560.220 229.285
+\i (00:00:55) trapsize 4515
+\i (00:00:55) zoom out 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom out 4561.122 227.480
+\i (00:00:55) trapsize 9029
+\i (00:00:56) zoom out 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom out 4561.122 227.480
+\i (00:00:56) trapsize 18058
+\i (00:00:56) zoom out 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom out 4561.122 227.481
+\t (00:00:56) Grids are drawn 80.000, 80.000 apart for enhanced viewability.
+\i (00:00:56) trapsize 36117
+\i (00:00:56) zoom out 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom out 4561.121 227.481
+\i (00:00:56) trapsize 72233
+\i (00:13:58) exit 
+\t (00:13:58)     Journal end - Wed Apr 25 17:09:16 2018

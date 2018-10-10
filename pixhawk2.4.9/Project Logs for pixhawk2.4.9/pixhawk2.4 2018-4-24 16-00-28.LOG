@@ -1,0 +1,16 @@
+Change Component Designator: OldDesignator=*1 NewDesignator=K1
+Change Component Designator: OldDesignator=*3 NewDesignator=K2
+Change Net Name : Old Net Name=Net*1_1 New Net Name=NetC5_P$1
+Change Net Name : Old Net Name=Net*1_4 New Net Name=NetK1_4
+Change Net Name : Old Net Name=Net*3_1 New Net Name=NetC13_P$1
+Change Net Name : Old Net Name=Net*3_4 New Net Name=NetK2_4
+Added Pin To Net: NetName=NetC5_P$2 Pin=C5-P$2
+Added Pin To Net: NetName=NetC5_P$2 Pin=K1-8
+Added Net: Name=NetC5_P$2
+Added Pin To Net: NetName=NetC13_P$2 Pin=C13-P$2
+Added Pin To Net: NetName=NetC13_P$2 Pin=K2-8
+Added Net: Name=NetC13_P$2
+Added Member To Class: ClassName=px4flow Member=Component C27 0.01u 25v
+Added Member To Class: ClassName=px4flow Member=Component U1 MT9V034
+Added Member To Class: ClassName=px4flow Member=Component U2 LENSMOUNT_M12
+Added Room: Name=PAD

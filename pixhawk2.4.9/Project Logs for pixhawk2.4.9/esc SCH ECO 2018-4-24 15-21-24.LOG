@@ -1,0 +1,251 @@
+Remove Pin=D300-A From Net=VDD_SERVO
+Remove Pin=N5-1 From Net=IO-CH1-PROT
+Remove Pin=N6-1 From Net=IO-CH2-PROT
+Remove Pin=N7-1 From Net=IO-CH3-PROT
+Remove Pin=N8-1 From Net=IO-CH4-PROT
+Remove Pin=P1-1 From Net=FMU-SWDIO
+Remove Pin=P1-3 From Net=FMU-SWCLK
+Remove Pin=P1-4 From Net=I2C_2_SDA
+Remove Pin=P1-6 From Net=I2C_2_SCL
+Remove Pin=P1-9 From Net=VDD_SERVO_IN
+Remove Pin=P1-17 From Net=SAFETY
+Remove Pin=P1-20 From Net=SERIAL3_RX
+Remove Pin=P1-21 From Net=PRESSURE_SENS_IN
+Remove Pin=P1-22 From Net=SERIAL3_TX
+Remove Pin=P1-23 From Net=AUX_BATT_VOLTAGE_SENS
+Remove Pin=P1-24 From Net=ALARM
+Remove Pin=P1-25 From Net=AUX_BATT_CURRENT_SENS
+Remove Pin=P1-27 From Net=V\D\D\_\5\V\_\P\E\R\I\P\H\_\E\N\
+Remove Pin=P1-28 From Net=I\O\-\L\E\D\_\S\A\F\E\T\_\P\R\O\T\
+Remove Pin=P1-29 From Net=VBUS
+Remove Pin=P1-31 From Net=OTG_DP1
+Remove Pin=P1-33 From Net=OTG_DM1
+Remove Pin=P1-34 From Net=SERIAL2_RX
+Remove Pin=P1-36 From Net=SERIAL2_TX
+Remove Pin=P1-38 From Net=SERIAL1_RX
+Remove Pin=P1-39 From Net=CAN_L_2
+Remove Pin=P1-40 From Net=SERIAL1_TX
+Remove Pin=P1-41 From Net=CAN_H_2
+Remove Pin=P1-43 From Net=V\D\D\_\5\V\_\P\E\R\I\P\H\_\O\C\
+Remove Pin=P1-45 From Net=V\D\D\_\5\V\_\H\I\P\O\W\E\R\_\O\C\
+Remove Pin=P1-47 From Net=BATT_VOLTAGE_SENS_PROT
+Remove Pin=P1-49 From Net=BATT_CURRENT_SENS_PROT
+Remove Pin=P1-51 From Net=SPI_EXT_MOSI
+Remove Pin=P1-53 From Net=VDD_SERVO
+Remove Pin=P1-55 From Net=V\D\D\_\B\R\I\C\K\_\V\A\L\I\D\
+Remove Pin=P1-57 From Net=V\D\D\_\B\A\C\K\U\P\_\V\A\L\I\D\
+Remove Pin=P1-59 From Net=V\B\U\S\_\V\A\L\I\D\
+Remove Pin=P1-61 From Net=VDD_5V_IN_PROT
+Remove Pin=P1-62 From Net=PPM-SBUS-PROT
+Remove Pin=P1-63 From Net=VDD_5V_IN_PROT
+Remove Pin=P1-67 From Net=SPI_EXT_MISO
+Remove Pin=P1-69 From Net=IO-SWDIO
+Remove Pin=P1-71 From Net=IO-SWCLK
+Remove Pin=P1-73 From Net=SPI_EXT_SCK
+Remove Pin=P1-74 From Net=IO-CH4-PROT
+Remove Pin=P1-76 From Net=IO-CH3-PROT
+Remove Pin=P1-78 From Net=IO-CH2-PROT
+Remove Pin=P1-80 From Net=IO-CH1-PROT
+Remove Pin=P15-3 From Net=PB7_DCMI_VSYNC
+Remove Pin=P15-4 From Net=PB10_I2C2_SCL
+Remove Pin=P15-5 From Net=PA4_DCMI_HSYNC
+Remove Pin=P15-6 From Net=PB11_I2C2_SDA
+Remove Pin=P15-8 From Net=PC6_DCMI_D0
+Remove Pin=P15-9 From Net=PC7_DCMI_D1
+Remove Pin=P15-10 From Net=PE0_DCMI_D2
+Remove Pin=P15-11 From Net=PE1_DCMI_D3
+Remove Pin=P15-12 From Net=PE4_DCMI_D4
+Remove Pin=P15-13 From Net=PB6_DCMI_D5
+Remove Pin=P15-14 From Net=PE5_DCMI_D6
+Remove Pin=P15-15 From Net=PE6_DCMI_D7
+Remove Pin=P15-16 From Net=PA6_DCMI_PCLK
+Remove Pin=P15-17 From Net=PC8_TIM8_CH3_MASTERCLOCK
+Remove Pin=P15-18 From Net=PWDN
+Remove Pin=P16-2 From Net=PC8_TIM8_CH3_MASTERCLOCK
+Remove Pin=P16-3 From Net=PA2_TIM5_CH3_EXPOSURE
+Remove Pin=P16-4 From Net=PA3_TIM5_CH4_STANDBY
+Remove Pin=P16-6 From Net=PB10_I2C2_SCL
+Remove Pin=P16-7 From Net=PB11_I2C2_SDA
+Remove Pin=P16-8 From Net=PC6_DCMI_D0
+Remove Pin=P16-9 From Net=PC7_DCMI_D1
+Remove Pin=P16-10 From Net=PE0_DCMI_D2
+Remove Pin=P16-11 From Net=PE1_DCMI_D3
+Remove Pin=P16-12 From Net=PE4_DCMI_D4
+Remove Pin=P16-13 From Net=PB6_DCMI_D5
+Remove Pin=P16-14 From Net=PE5_DCMI_D6
+Remove Pin=P16-15 From Net=PE6_DCMI_D7
+Remove Pin=P16-16 From Net=PA4_DCMI_HSYNC
+Remove Pin=P16-17 From Net=PB7_DCMI_VSYNC
+Remove Pin=P16-18 From Net=PA6_DCMI_PCLK
+Remove Pin=P16-19 From Net=PC9_TIM8_CH4_LED_OUT
+Remove Pin=PSM1-1 From Net=VDD_3V3_USER
+Remove Pin=PSM1-3 From Net=RX_5V0_OUT
+Remove Pin=PSM1-4 From Net=VDD_5V_PERIPH
+Remove Pin=PSM1-5 From Net=VDD_5V_HIPOWER
+Remove Pin=PSM1-7 From Net=V\D\D\_\5\V\_\H\I\P\O\W\E\R\_\O\C\
+Remove Pin=PSM1-8 From Net=V\D\D\_\5\V\_\P\E\R\I\P\H\_\O\C\
+Remove Pin=PSM1-10 From Net=V\D\D\_\5\V\_\P\E\R\I\P\H\_\E\N\
+Remove Pin=PSM1-11 From Net=VBUS
+Remove Pin=PSM1-12 From Net=ALARM
+Remove Pin=PSM1-13 From Net=BUZZER_OUT
+Remove Pin=PSM1-15 From Net=VDD_5V_IN_PROT
+Remove Pin=PSM1-16 From Net=V\D\D\_\B\R\I\C\K\_\V\A\L\I\D\
+Remove Pin=PSM1-17 From Net=V\D\D\_\B\A\C\K\U\P\_\V\A\L\I\D\
+Remove Pin=PSM1-18 From Net=V\B\U\S\_\V\A\L\I\D\
+Remove Pin=PSM1-19 From Net=VDD_SERVO_IN
+Change Component Footprint: Designator=D300 Old Footprint=0402-TVS New Footprint=MICROSMP
+Change Component Footprint: Designator=X1 Old Footprint=3225SA New Footprint=OSCILLATOR-3.2X2.5
+Change Component Footprint: Designator=C1 Old Footprint=C0402 New Footprint=0402-CAP
+Change Component Footprint: Designator=C4 Old Footprint=C0402 New Footprint=0402-CAP
+Change Component Footprint: Designator=C5 Old Footprint=C0402 New Footprint=0402-CAP
+Change Component Footprint: Designator=C8 Old Footprint=C0402 New Footprint=0402-CAP
+Change Component Footprint: Designator=C11 Old Footprint=C0402 New Footprint=0402-CAP
+Change Component Footprint: Designator=C12 Old Footprint=C0402 New Footprint=0402-CAP
+Change Component Footprint: Designator=C13 Old Footprint=C0402 New Footprint=0402-CAP
+Change Component Footprint: Designator=C16 Old Footprint=C0402 New Footprint=0402-CAP
+Change Component Footprint: Designator=C17 Old Footprint=C0402 New Footprint=0402-CAP
+Change Component Footprint: Designator=C18 Old Footprint=C0402 New Footprint=0402-CAP
+Change Component Footprint: Designator=C19 Old Footprint=C0402 New Footprint=0402-CAP
+Change Component Footprint: Designator=C20 Old Footprint=C0402 New Footprint=0402-CAP
+Change Component Footprint: Designator=C21 Old Footprint=C0402 New Footprint=0402-CAP
+Change Component Footprint: Designator=C22 Old Footprint=C0402 New Footprint=0402-CAP
+Change Component Footprint: Designator=C23 Old Footprint=C0402 New Footprint=0402-CAP
+Change Component Footprint: Designator=C24 Old Footprint=C0402 New Footprint=0402-CAP
+Change Component Footprint: Designator=C25 Old Footprint=C0402 New Footprint=0402-CAP
+Change Component Footprint: Designator=C26 Old Footprint=C0402 New Footprint=0402-CAP
+Change Component Footprint: Designator=C27 Old Footprint=C0402 New Footprint=0402-CAP
+Change Component Footprint: Designator=C28 Old Footprint=C0402 New Footprint=0402-CAP
+Change Component Footprint: Designator=C29 Old Footprint=C0402 New Footprint=0402-CAP
+Change Component Footprint: Designator=C30 Old Footprint=C0402 New Footprint=0402-CAP
+Change Component Footprint: Designator=C31 Old Footprint=C0402 New Footprint=0402-CAP
+Change Component Footprint: Designator=C32 Old Footprint=C0402 New Footprint=0402-CAP
+Change Component Footprint: Designator=C33 Old Footprint=C0402 New Footprint=0402-CAP
+Change Component Footprint: Designator=C34 Old Footprint=C0402 New Footprint=0402-CAP
+Change Component Footprint: Designator=C35 Old Footprint=C0402 New Footprint=0402-CAP
+Change Component Footprint: Designator=C36 Old Footprint=C0402 New Footprint=0402-CAP
+Change Component Footprint: Designator=C38 Old Footprint=C0402 New Footprint=0402-CAP
+Change Component Footprint: Designator=C40 Old Footprint=C0402 New Footprint=0402-CAP
+Change Component Footprint: Designator=C41 Old Footprint=C0402 New Footprint=0402-CAP
+Change Component Footprint: Designator=C42 Old Footprint=C0402 New Footprint=0402-CAP
+Change Component Footprint: Designator=C43 Old Footprint=C0402 New Footprint=0402-CAP
+Change Component Footprint: Designator=C44 Old Footprint=C0402 New Footprint=0402-CAP
+Change Component Footprint: Designator=C45 Old Footprint=C0402 New Footprint=0402-CAP
+Change Component Footprint: Designator=C46 Old Footprint=C0402 New Footprint=0402-CAP
+Change Component Footprint: Designator=C47 Old Footprint=C0402 New Footprint=0402-CAP
+Change Component Footprint: Designator=C48 Old Footprint=C0402 New Footprint=0402-CAP
+Change Component Footprint: Designator=C49 Old Footprint=C0402 New Footprint=0402-CAP
+Change Component Footprint: Designator=C50 Old Footprint=C0402 New Footprint=0402-CAP
+Change Component Footprint: Designator=C2 Old Footprint=C1206 New Footprint=1206-CAP
+Change Component Footprint: Designator=C3 Old Footprint=C1206 New Footprint=1206-CAP
+Change Component Footprint: Designator=C6 Old Footprint=C1206 New Footprint=1206-CAP
+Change Component Footprint: Designator=C7 Old Footprint=C1206 New Footprint=1206-CAP
+Change Component Footprint: Designator=C9 Old Footprint=C1206 New Footprint=1206-CAP
+Change Component Footprint: Designator=C10 Old Footprint=C1206 New Footprint=1206-CAP
+Change Component Footprint: Designator=C14 Old Footprint=C1206 New Footprint=1206-CAP
+Change Component Footprint: Designator=C15 Old Footprint=C1206 New Footprint=1206-CAP
+Change Component Footprint: Designator=C37 Old Footprint=C1206 New Footprint=1206-CAP
+Change Component Footprint: Designator=C39 Old Footprint=C1206 New Footprint=1206-CAP
+Change Component Footprint: Designator=K1 Old Footprint=HSOIC-8 New Footprint=SOT23-8
+Change Component Footprint: Designator=K2 Old Footprint=HSOIC-8 New Footprint=SOT23-8
+Change Component Footprint: Designator=S1 Old Footprint=PAD_04X04 New Footprint=PAD.04X.04
+Change Component Footprint: Designator=S2 Old Footprint=PAD_04X04 New Footprint=PAD.04X.04
+Change Component Footprint: Designator=S3 Old Footprint=PAD_04X04 New Footprint=PAD.04X.04
+Change Component Footprint: Designator=S4 Old Footprint=PAD_04X04 New Footprint=PAD.04X.04
+Change Component Footprint: Designator=S5 Old Footprint=PAD_04X04 New Footprint=PAD.04X.04
+Change Component Footprint: Designator=S6 Old Footprint=PAD_04X04 New Footprint=PAD.04X.04
+Change Component Footprint: Designator=R27 Old Footprint=R0201 New Footprint=R0402
+Change Component Footprint: Designator=R1 Old Footprint=R0402 New Footprint=0402-RES
+Change Component Footprint: Designator=R2 Old Footprint=R0402 New Footprint=0402-RES
+Change Component Footprint: Designator=R4 Old Footprint=R0402 New Footprint=0402-RES
+Change Component Footprint: Designator=R5 Old Footprint=R0402 New Footprint=0402-RES
+Change Component Footprint: Designator=R6 Old Footprint=R0402 New Footprint=0402-RES
+Change Component Footprint: Designator=R7 Old Footprint=R0402 New Footprint=0402-RES
+Change Component Footprint: Designator=R8 Old Footprint=R0402 New Footprint=0402-RES
+Change Component Footprint: Designator=R9 Old Footprint=R0402 New Footprint=0402-RES
+Change Component Footprint: Designator=R10 Old Footprint=R0402 New Footprint=0402-RES
+Change Component Footprint: Designator=R11 Old Footprint=R0402 New Footprint=0402-RES
+Change Component Footprint: Designator=R12 Old Footprint=R0402 New Footprint=0402-RES
+Change Component Footprint: Designator=R13 Old Footprint=R0402 New Footprint=0402-RES
+Change Component Footprint: Designator=S7 Old Footprint=SWITCH New Footprint=EVQP7J01K
+Change Component Comment: Designator=C40 Old Comment=0.01u 25v New Comment=0.01u
+Change Component Comment: Designator=C41 Old Comment=0.01u 25v New Comment=0.01u
+Change Component Comment: Designator=C42 Old Comment=0.01u 25v New Comment=0.01u
+Change Component Comment: Designator=C43 Old Comment=0.01u 25v New Comment=0.01u
+Change Component Comment: Designator=C44 Old Comment=0.01u 25v New Comment=0.01u
+Change Component Comment: Designator=C45 Old Comment=0.01u 25v New Comment=0.01u
+Change Component Comment: Designator=C46 Old Comment=0.01u 25v New Comment=0.01u
+Change Component Comment: Designator=C47 Old Comment=0.01u 25v New Comment=0.01u
+Change Component Comment: Designator=C48 Old Comment=0.01u 25v New Comment=0.01u
+Change Component Comment: Designator=C49 Old Comment=0.01u 25v New Comment=0.01u
+Change Component Comment: Designator=C5 Old Comment=0.01u 25v New Comment=0.01 25v
+Change Component Comment: Designator=C13 Old Comment=0.01u 25v New Comment=0.01 25v
+Change Component Comment: Designator=C24 Old Comment=0.01u 25v New Comment=0.01 25v
+Change Component Comment: Designator=C26 Old Comment=0.1u 25v New Comment=0.1 25v
+Change Component Comment: Designator=C27 Old Comment=0.01u 25v New Comment=0.01 25v
+Change Component Comment: Designator=C17 Old Comment=0.1u 25v New Comment=0u1
+Change Component Comment: Designator=C18 Old Comment=0.1u 25v New Comment=0u1
+Change Component Comment: Designator=C19 Old Comment=0.1u 25v New Comment=0u1
+Change Component Comment: Designator=C20 Old Comment=0.1u 25v New Comment=0u1
+Change Component Comment: Designator=C21 Old Comment=0.1u 25v New Comment=0u1
+Change Component Comment: Designator=C22 Old Comment=0.1u 25v New Comment=0u1
+Change Component Comment: Designator=C23 Old Comment=0.1u 25v New Comment=0u1
+Change Component Comment: Designator=C33 Old Comment=0.1u 25v New Comment=0u1 25v
+Change Component Comment: Designator=C34 Old Comment=0.01u 25v New Comment=0u01 25v
+Change Component Comment: Designator=C35 Old Comment=0.1u 25v New Comment=0u1 25v
+Change Component Comment: Designator=C36 Old Comment=0.1u 25v New Comment=0u1 25v
+Change Component Comment: Designator=C38 Old Comment=0.1u 25v New Comment=0u1 25v
+Change Component Comment: Designator=C50 Old Comment=0.1u 25v New Comment=0u1 25v
+Change Component Comment: Designator=R1 Old Comment=0R New Comment=0
+Change Component Comment: Designator=R2 Old Comment=0R New Comment=0
+Change Component Comment: Designator=C31 Old Comment=2.2u 25v New Comment=2.2u
+Change Component Comment: Designator=C32 Old Comment=2.2u 25v New Comment=2.2u
+Change Component Comment: Designator=C30 Old Comment=2.2u 25v New Comment=2.2uf
+Change Component Comment: Designator=C37 Old Comment=2.2u 25v New Comment=2.2uf
+Change Component Comment: Designator=C39 Old Comment=2.2u 25v New Comment=2.2uf
+Change Component Comment: Designator=C28 Old Comment=8p 25v New Comment=8p
+Change Component Comment: Designator=C29 Old Comment=8p 25v New Comment=8p
+Change Component Comment: Designator=C2 Old Comment=10u 50v New Comment=10u
+Change Component Comment: Designator=C3 Old Comment=10u 50v New Comment=10u
+Change Component Comment: Designator=C6 Old Comment=10u 50v New Comment=10u
+Change Component Comment: Designator=C9 Old Comment=10u 50v New Comment=10u
+Change Component Comment: Designator=C10 Old Comment=10u 50v New Comment=10u
+Change Component Comment: Designator=C15 Old Comment=10u 50v New Comment=10u
+Change Component Comment: Designator=R26 Old Comment=22R New Comment=22
+Change Component Comment: Designator=R28 Old Comment=100R New Comment=100
+Change Component Comment: Designator=R30 Old Comment=100R New Comment=100
+Change Component Comment: Designator=R31 Old Comment=100R New Comment=100
+Change Component Comment: Designator=C7 Old Comment=220u 50v New Comment=220u
+Change Component Comment: Designator=C14 Old Comment=220u 50v New Comment=220u
+Change Component Comment: Designator=R27 Old Comment=270R New Comment=22
+Change Component Comment: Designator=R32 Old Comment=330R New Comment=330
+Change Component Comment: Designator=R33 Old Comment=330R New Comment=330
+Change Component Comment: Designator=R34 Old Comment=330R New Comment=330
+Change Component Comment: Designator=D300 Old Comment=DIODE-TVS New Comment=MSS1P4-M3
+Change Component Comment: Designator=X1 Old Comment=OSCILLATOR-3.2X2.5 New Comment=Crystal Oscillator in 3.2x2.5 SMD
+Change Component Designator: OldDesignator=C24 NewDesignator=C27
+Change Component Designator: OldDesignator=C25 NewDesignator=C27
+Change Component Designator: OldDesignator=K1 NewDesignator=*1
+Change Component Designator: OldDesignator=K2 NewDesignator=*3
+Change Component Designator: OldDesignator=P2 NewDesignator=JLINK
+Change Component Designator: OldDesignator=P3 NewDesignator=telem1
+Change Component Designator: OldDesignator=P4 NewDesignator=ADC
+Change Component Designator: OldDesignator=P5 NewDesignator=safety
+Change Component Designator: OldDesignator=P6 NewDesignator=telem2
+Change Component Designator: OldDesignator=P7 NewDesignator=can
+Change Component Designator: OldDesignator=P8 NewDesignator=control
+Change Component Designator: OldDesignator=P9 NewDesignator=userpower
+Change Component Designator: OldDesignator=P10 NewDesignator=usart4
+Change Component Designator: OldDesignator=P11 NewDesignator=BUZZER
+Change Component Designator: OldDesignator=P12 NewDesignator=OTG
+Change Component Designator: OldDesignator=R28 NewDesignator=R29
+Change Component Designator: OldDesignator=R29 NewDesignator=R30
+Change Component Designator: OldDesignator=R30 NewDesignator=R31
+Change Component Designator: OldDesignator=R31 NewDesignator=R32
+Change Component Designator: OldDesignator=R32 NewDesignator=R33
+Change Component Designator: OldDesignator=R33 NewDesignator=R34
+Change Component Designator: OldDesignator=R34 NewDesignator=R35
+Change Component Designator: OldDesignator=U1 NewDesignator=U$1
+Change Component Designator: OldDesignator=U2 NewDesignator=U$2
+Change Component Designator: OldDesignator=U3 NewDesignator=U1
+Change Component Designator: OldDesignator=U3 NewDesignator=U1
+Change Component Designator: OldDesignator=U4 NewDesignator=U2

@@ -1,0 +1,10 @@
+Output: Protel
+Type  : ProtelNetlist
+From  : Project [pixhawk2.4.9.PrjPCB]
+   Generated File[pixhawk2.4.9.NET]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:33:47 On 2018/4/25
